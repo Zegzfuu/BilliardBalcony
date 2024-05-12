@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752767142385",
+    "project_id": "billiardbalcony",
+    "storage_bucket": "billiardbalcony.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752767142385:android:b1ed0dfeb5e0cc53059c50",
+        "android_client_info": {
+          "package_name": "com.example.billiardbalcony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752767142385-q46bp7err02qcelror332ml2k4cpf3qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.billiardbalcony",
+            "certificate_hash": "096e61dd6f9923f3b2616e63e76bd66d63fac233"
+          }
+        },
+        {
+          "client_id": "752767142385-srsi6l5dh6625m0jlk9ervlr8b2jo69k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBApcylLxo83T0peVWSkGFy-WXkcrUlOVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752767142385-srsi6l5dh6625m0jlk9ervlr8b2jo69k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
