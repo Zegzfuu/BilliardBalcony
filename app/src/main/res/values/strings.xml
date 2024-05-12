@@ -1,10 +1,19 @@
 <resources>
     <string name="app_name">BilliardBalcony</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+
+    <string name="item_placeholder">Időpont</string>
+    <string name="item_info_placeholder">Leírás</string>
+    <string name="SignWithGoogleAcc">Bejelentkezés google fiókkal</string>
+    <string name="lefoglalas">Lefoglalás</string>
+    <string name="idopont">\"Időpont\"</string>
 
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris

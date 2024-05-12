@@ -11,7 +11,7 @@ public class NotificationJobService extends JobService {
     @Override
     public boolean onStartJob(JobParameters params) {
         NotificationHelper mNotificationHelper = new NotificationHelper(getApplicationContext());
-        mNotificationHelper.send("Ideje billiárdózni kicsit :-}");
+        mNotificationHelper.send("Billiárdozzunk egyet!");
         return true;
     }
 

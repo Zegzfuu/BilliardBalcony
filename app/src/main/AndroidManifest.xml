@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BilliardBalcony">
         <activity
+            android:name=".DateListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DateAdapter"
+            android:exported="false" />
+        <activity
             android:name=".HomepageActivity"
             android:exported="false" />
 
@@ -19,7 +25,6 @@
             android:name=".NotificationJobService"
             android:permission="android.permission.BIND_JOB_SERVICE" />
 
-        <activity android:name=".DateListActivity" />
         <activity android:name=".RegisterActivity" />
         <activity
             android:name=".MainActivity"
